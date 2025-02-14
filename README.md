@@ -1,7 +1,7 @@
 # Security Protocol Bot
 Safety, Anti-Nuke & Raid System, Logs & etc.
 
-![Safety Banner](safetybanner.png)
+![Safety Banner]([safetybanner.png](https://raw.githubusercontent.com/vncuu/security/main/safetybanner.png))
 
 **Introduction** Safety Protocol Managing is Simplier with the Documents. Or you can use **/setup** or **/cmdshow**.
 SafetyP is a standart bot that helps you manage your server as a Professional. If you are new and you use SafetyP Bot, we really appreciate it. 
